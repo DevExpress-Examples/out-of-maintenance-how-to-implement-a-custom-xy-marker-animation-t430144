@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FanMarkerAnimation.cs](./CS/AnimationExample/FanMarkerAnimation.cs) (VB: [FanMarkerAnimation.vb](./VB/AnimationExample/FanMarkerAnimation.vb))
+* [MainForm.cs](./CS/AnimationExample/MainForm.cs) (VB: [MainForm.vb](./VB/AnimationExample/MainForm.vb))
+* [Program.cs](./CS/AnimationExample/Program.cs)
+<!-- default file list end -->
 # How to implement a custom XY-marker animation
 
 
