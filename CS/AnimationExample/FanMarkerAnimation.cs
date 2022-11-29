@@ -1,4 +1,5 @@
 ﻿#region #CustomAnimation
+using DevExpress.Drawing;
 using DevExpress.XtraCharts;
 using System;
 using System.Drawing;
@@ -45,7 +46,7 @@ namespace AnimationExample {
             );
 
             // Path representing a marker's circumscribed circle sector.
-            GraphicsPath path = new GraphicsPath();
+            DXGraphicsPath path = new DXGraphicsPath();
             path.AddLine(
                     markerCenterX, 
                     markerCenterY, 
